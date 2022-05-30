@@ -6,10 +6,6 @@
     font-family: 'Montserrat', sans-serif;
     scroll-behavior: smooth;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 a{
     text-decoration: none;
 }
@@ -78,7 +74,7 @@ main{
 }
 .headerMain{
     height: 700px;
-    background-image: url(/img/orange.png);
+    background-image: url(img/orange.png);
     background-repeat: no-repeat;
     background-position: 85%;
     background-size: cover;
@@ -196,10 +192,6 @@ button a{
 button:hover{
     font-size: 1.3rem;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 @media (min-width: 1350px) {
     .headerContent{
         padding: 0 15px;
@@ -276,7 +268,7 @@ button:hover{
     .imagesContent :nth-child(10) {order: 12;}
     .imagesContent :nth-child(11) {order: 2;}
     .imagesContent :nth-child(12) {order: 5;}
-
+    
     .footerContent{
         height: fit-content;
         flex-direction: column;
