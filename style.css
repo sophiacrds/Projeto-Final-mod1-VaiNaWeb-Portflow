@@ -7,7 +7,6 @@
     scroll-behavior: smooth;
 }
 
-/* HEADER */
 a{
     text-decoration: none;
 }
@@ -24,7 +23,7 @@ header{
 .headerContent{
     max-width: 1350px;
     width: 100vw;
-    height: inherit; /* vai herder do pai */
+    height: inherit;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -70,8 +69,6 @@ header li:hover{
 header a{
     color: black;
 }
-
-/* MAIN */
 main{
     background: white;
     padding-top: 90px;
@@ -103,8 +100,6 @@ main{
     text-transform: uppercase;
     padding-top: 40px;
 }
-
-/* IMAGENS */
 .secImages{
     width: 100%;
     background: white;
@@ -130,8 +125,6 @@ main{
 .imagesContent img:hover{
     clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
 }
-
-/* FOOTER */
 footer{
     background: #00000014;
     width: 100%;
@@ -201,7 +194,6 @@ button:hover{
     font-size: 1.3rem;
 }
 
-/* RESPONSIVOS */
 @media (min-width: 1350px) {
     .headerContent{
         padding: 0 15px;
@@ -256,8 +248,6 @@ button:hover{
     .headerMain p{
         font-size: 20px;
     }
-
-/* DISPLAY FLEX IMAGENS */
     .imagesContent img{
         width: 450px;
         height: 450px;
