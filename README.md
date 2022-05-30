@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://img.shields.io/github/languages/count/sophiacrds/Projeto-Final-mod1-VaiNaWeb-Portflow">
-  <img src="https://img.shields.io/github/repo-size/sophiacrds/Projeto-Final-mod1-VaiNaWeb-Portflow">
+  <img src="https://img.shields.io/github/languages/top/sophiacrds/Projeto-Final-mod1-VaiNaWeb-Portflow">
   <img src="https://img.shields.io/tokei/lines/github/sophiacrds/Projeto-Final-mod1-VaiNaWeb-Portflow">
 </div>
+
 
 # 🍊 Portflow
 
