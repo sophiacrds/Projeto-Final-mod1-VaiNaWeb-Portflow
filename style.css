@@ -6,6 +6,10 @@
     font-family: 'Montserrat', sans-serif;
     scroll-behavior: smooth;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/main
 a{
     text-decoration: none;
 }
@@ -192,6 +196,10 @@ button a{
 button:hover{
     font-size: 1.3rem;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/main
 @media (min-width: 1350px) {
     .headerContent{
         padding: 0 15px;
@@ -246,8 +254,6 @@ button:hover{
     .headerMain p{
         font-size: 20px;
     }
-
-/* DISPLAY FLEX IMAGENS */
     .imagesContent img{
         width: 450px;
         height: 450px;
